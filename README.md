@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamcoder30
 - 👀 I'm graduated from jammu university (BCA) in 2019 
-- 🌱 I’m currently learning REACTJS
+- 🌱  REACT DEVELOPER.
 - to connect with me ,MAIL ME
 shubhams.48singh@gmail.com
 <!---
